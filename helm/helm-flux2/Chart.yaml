@@ -1,0 +1,11 @@
+annotations:
+  artifacthub.io/changes: |
+    - "[Update]: Update App Version to upstream 0.30.2"
+apiVersion: v2
+appVersion: 0.30.2
+description: A Helm chart for flux2
+name: flux2
+sources:
+- https://github.com/fluxcd-community/helm-charts
+type: application
+version: 0.19.2
