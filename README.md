@@ -25,6 +25,13 @@ tar xvf flux_0.27.4_linux_amd64.tar.gz
 mv flux /usr/bin
 ```
 
+## Clone Repo to run below commands
+
+```bash
+git clone https://github.com/Naresh240/terraform_eks_flux_sync_with_helm.git
+cd terraform_eks_flux_sync_with_helm
+```
+
 ## Create Cluster and Deploy applciations
 
 ```bash
